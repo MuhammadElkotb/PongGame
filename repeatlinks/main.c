@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <raylib.h>
 #include <ctype.h>
+#include <string.h>
+#include <stdlib.h>
+
 
 
 #define WIDTH 1600
