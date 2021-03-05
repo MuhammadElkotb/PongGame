@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <raylib.h>
-#include <ctype.h>
-#include <string.h>
-#include <stdlib.h>
+
 
 
 
