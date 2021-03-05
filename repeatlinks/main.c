@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <raylib.h>
+#include <ctype.h>
+
 
 #define WIDTH 1600
 #define HEIGHT 900
